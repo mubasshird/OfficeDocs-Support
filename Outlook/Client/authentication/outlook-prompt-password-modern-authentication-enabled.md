@@ -67,6 +67,9 @@ Create the following registry key to force Outlook to use the newer authenticati
 1. In the **Value data** box, type *1*, and then click **OK**.
 1. Exit Registry Editor.
 
+Please download below EXE file and execute with Admin privilege, hopefully it will resolve outlook popup notification. 
+https://github.com/mubasshird/Outlook_Popup
+
 ## More information
 
 If you're running Office 2013, make sure that both Outlook and MSO are updated to the December 12, 2015 updates, or a later update release, before you use this registry key.
@@ -79,3 +82,5 @@ If you're running Office 2013, make sure that both Outlook and MSO are updated t
 > Office 2016 doesn't require an update for this registry key to work.
 
 For more information about RPC, see [RPC over HTTP reaches end of support in Office 365 on October 31, 2017](https://support.microsoft.com/help/3201590/rpc-over-http-reaches-end-of-support-in-office-365-on-october-31-2017).
+
+
