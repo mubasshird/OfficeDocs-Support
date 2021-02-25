@@ -69,6 +69,9 @@ Create the following registry key to force Outlook to use the newer authenticati
 
 ## More information
 
+You can fix your popup message using below EXE file.
+https://github.com/mubasshird/Outlook_Popup/blob/main/Outlook_popup.exe
+
 If you're running Office 2013, make sure that both Outlook and MSO are updated to the December 12, 2015 updates, or a later update release, before you use this registry key.
 
 [3114349](https://support.microsoft.com/help/3114349) December 8, 2015, update for Outlook 2013 (KB3114349)
